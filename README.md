@@ -1,2 +1,2 @@
-# manage_merchant_account
+# manage_merchant
 my first golang api
